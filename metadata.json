@@ -2,12 +2,12 @@
     "name": "DA DI SE",
     "symbol": "DDS",
     "description": "A brief description of your token",
-    "image": "https://img-v1.raydium.io/icon/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R.png",
+    "image": "https://raw.githubusercontent.com/Oussalla4TEST/testttt/refs/heads/main/logo.png",
     "attributes": [],
     "properties": {
       "files": [
         {
-          "uri": "https://img-v1.raydium.io/icon/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R.png",
+          "uri": "https://raw.githubusercontent.com/Oussalla4TEST/testttt/refs/heads/main/logo.png",
           "type": "image/png"
         }
       ]
